@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Frontend Test
 
-## Available Scripts
+## Requirements
 
-In the project directory, you can run:
+- nodejs v12.x (https://nodejs.org/en/)
+- yarn v1.x (https://yarnpkg.com/fr/docs/install)
 
-### `yarn start`
+## Installation
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+yarn
+yarn start
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Summary
 
-### `yarn test`
+The goal of this test is to make you code a small ReactJS app. We have prepared a skeleton app for you, but you can change whatever you want.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can get the list of the cities with XHR call `GET /cities.json` (the file is store in `public` directory)
 
-### `yarn build`
+Only to 2 requirements for this test, use `React-Leaflet` (https://github.com/PaulLeCam/react-leaflet) for the map, and Styled Components (https://styled-components.com) for all styling stuff.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Bonus:
+ - Add Jest test
+ - Add pagination
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+To give you an idea, here what our app looks like:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/582703/74224843-e1d95980-4cb9-11ea-824d-650135e226f5.png)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Show us what you can do in 4-6 hours!
