@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Headers Snapshots renders header 1`] = `
+<header
+  className="sc-AxhUy duBjVs"
+/>
+`;
+
+exports[`Headers Snapshots renders title in header 1`] = `
+<h1
+  className="sc-AxjAm sc-AxgMl btHVmf"
+/>
+`;
