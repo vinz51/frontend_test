@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Titles Snapshots renders bold 1`] = `
+<h2
+  className="sc-AxirZ kDwUrB"
+>
+  Title
+</h2>
+`;
+
+exports[`Titles Snapshots renders h1 1`] = `
+<h1
+  className="sc-AxjAm euwmKR"
+>
+  Title
+</h1>
+`;
+
+exports[`Titles Snapshots renders subtitle in bold 1`] = `
+<h2
+  className="sc-AxirZ sc-AxhCb dspALo"
+>
+  Title
+</h2>
+`;
+
+exports[`Titles Snapshots renders title in bold 1`] = `
+<h2
+  className="sc-AxirZ sc-AxiKw hYWAVI"
+>
+  Title
+</h2>
+`;
