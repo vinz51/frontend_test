@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CitiesList Snaphosts renders 1`] = `
+Array [
+  <ul
+    className="sc-Axmtr iHRTWZ"
+  />,
+  <button
+    className="sc-AxgMl ekIFmV sc-AxheI jkaUqU"
+    disabled={true}
+    onClick={[Function]}
+  >
+    See more
+  </button>,
+]
+`;
+
+exports[`CitiesList Snaphosts renders with cities 1`] = `
+Array [
+  <ul
+    className="sc-Axmtr iHRTWZ"
+  />,
+  <button
+    className="sc-AxgMl gQAZnk sc-AxheI jkaUqU"
+    disabled={false}
+    onClick={[Function]}
+  >
+    See more
+    <span
+      className="sc-AxmLO iGeVhH"
+    >
+      0
+      /
+      2
+    </span>
+  </button>,
+]
+`;
