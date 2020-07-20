@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CityMobileDetail Snapshots renders 1`] = `
+<div
+  className="sc-AxheI kElgGa"
+  style={
+    Object {
+      "opacity": 0,
+    }
+  }
+>
+  <div
+    className="sc-AxhUy iFwpvP"
+  >
+    3.33%
+  </div>
+  <span
+    className="sc-AxgMl hciPwI"
+    onClick={null}
+  >
+    x
+  </span>
+  <h2
+    className="sc-AxirZ sc-AxiKw hYWAVI"
+  >
+    Paris
+  </h2>
+  <h2
+    className="sc-AxirZ sc-AxhCb dspALo"
+  >
+    State of 
+    Ile de France
+  </h2>
+  <p
+    className="sc-Axmtr HNdvW"
+  >
+    Inhabitant
+    s
+     
+    <b>
+      2148000
+    </b>
+  </p>
+</div>
+`;
+
+exports[`CloseDetail Snapshots renders 1`] = `
+<span
+  className="sc-AxgMl hciPwI"
+/>
+`;
+
+exports[`DetailPlace Snapshots renders 1`] = `
+<div
+  className="sc-AxheI kElgGa"
+/>
+`;
+
+exports[`Inhabitant Snapshots renders 1`] = `
+<p
+  className="sc-Axmtr HNdvW"
+/>
+`;

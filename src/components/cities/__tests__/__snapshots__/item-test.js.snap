@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`City item Snaphosts renders 1`] = `
+<li
+  className="sc-AxhUy kBCMWZ"
+>
+  <h2
+    className="sc-AxirZ sc-AxiKw hYWAVI"
+  >
+    Paris
+  </h2>
+  <h2
+    className="sc-AxirZ sc-AxhCb dspALo"
+  >
+    Ile de France
+  </h2>
+</li>
+`;
+
+exports[`City item Snaphosts renders with as prop 1`] = `
+<div>
+  <h2
+    className="sc-AxirZ sc-AxiKw hYWAVI"
+  >
+    Paris
+  </h2>
+  <h2
+    className="sc-AxirZ sc-AxhCb dspALo"
+  >
+    Ile de France
+  </h2>
+</div>
+`;
