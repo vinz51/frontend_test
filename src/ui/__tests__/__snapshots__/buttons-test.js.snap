@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Snapshots renders 1`] = `
+<button
+  className="sc-AxjAm fPbywM"
+>
+  Call me
+</button>
+`;
+
+exports[`Button Snapshots renders inverted 1`] = `
+<button
+  className="sc-AxjAm kppOXk"
+>
+  call me
+</button>
+`;
